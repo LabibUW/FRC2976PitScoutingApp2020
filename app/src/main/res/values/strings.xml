@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PitScouting2</string>
+    <string-array name="Actions">
+        <item>Defense</item>
+        <item>Initiation Line</item>
+        <item>Shoot into outer port</item>
+        <item>Shoot into bottom Port</item>
+        <item>Send Balls to the other side</item>
+    </string-array>
+</resources>

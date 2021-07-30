@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770706919651",
+    "firebase_url": "https://spartabots-pit-scouting-2020.firebaseio.com",
+    "project_id": "spartabots-pit-scouting-2020",
+    "storage_bucket": "spartabots-pit-scouting-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770706919651:android:67f25454689d9d1bb5f5d6",
+        "android_client_info": {
+          "package_name": "com.example.pitscouting2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770706919651-bpava00ir3heojutsc4lmmeu6rsajr3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pitscouting2",
+            "certificate_hash": "824e2b687b0b9cb5857a59c272748d7bbd56b36c"
+          }
+        },
+        {
+          "client_id": "770706919651-3f331s9ipbl0gv26ir6jh0km32don1so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiihFIp5JEireUanYEt_YxCscHdc8lNn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770706919651-3f331s9ipbl0gv26ir6jh0km32don1so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
